@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrownCoatJustice
 - 👀 I’m interested in Computer Hardware and Software
-- 🌱 I’m currently learning C and RC Planes
-- 💞️ I’m looking to collaborate on Games or simple open-source projects
+- 🌱 I’m currently learning C and C++
+- 💞️ I’m looking to collaborate on simple C or simple C++ projects
 - 📫 How to reach me Email me @ brownforsocialmedia@gmail.com
 
 <!---
